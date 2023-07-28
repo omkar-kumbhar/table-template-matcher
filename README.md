@@ -5,6 +5,12 @@ GPT3.5 based template matcher for two CSV files
 
 This project is a proof of concept for a GPT3.5 based template matcher for two CSV files. The user uploads two CSV files and provides a reason for the transformation. The GPT3.5 model then generates a Python script that transforms the first CSV file into the second CSV file. The user can then test the generated Python script and the transformed CSV file.
 
+## App Demo
+Please use `template.csv`, `table_A.csv` and `table_B.csv` for testing the app which is given
+in this repo. 
+
+You can find it here: https://template-matcher-prototype.streamlit.app/
+
 
 ## Requirements
 
